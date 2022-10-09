@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				79,
+				145
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3
+			],
+			"name": "sunkyIDLE instance"
+		},
+		{
+			"offsets": [
+				108,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sunkyLEFT instance"
+		},
+		{
+			"offsets": [
+				86,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sunkyUP instance"
+		},
+		{
+			"offsets": [
+				42,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sunkyRIGHT instance"
+		},
+		{
+			"offsets": [
+				61,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sunkyDOWN instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				142
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sunkyLEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				146
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "sunkyUP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				148
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sunkyRIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				149
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "sunkyDOWN instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-168,
+				-154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "spongie"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunky/sunky-old",
+	"position": [
+		-80,
+		260
+	],
+	"healthicon": "sunky-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		70,
+		248
+	],
+	"camera_position": [
+		-40,
+		-150
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

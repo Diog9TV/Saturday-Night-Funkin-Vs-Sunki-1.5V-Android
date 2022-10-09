@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "appear"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				3,
+				3,
+				3
+			],
+			"fps": 26,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dance"
+		},
+		{
+			"offsets": [
+				-4,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameover/bfSpoon_sunked",
+	"position": [
+		-210,
+		140
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		134,
+		255
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
