@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<TextureAtlas imagePath="sunker.png">
+
+<SubTexture frameHeight="140" frameWidth="135" frameX="-9" frameY="-21" height="107" name="sunker0000" width="126" x="0" y="0" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-9" frameY="-21" height="107" name="sunker0001" width="126" x="0" y="0" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-13" frameY="-13" height="116" name="sunker0002" width="114" x="126" y="0" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-13" frameY="-13" height="116" name="sunker0003" width="114" x="126" y="0" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-14" frameY="-9" height="120" name="sunker0004" width="113" x="0" y="116" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-14" frameY="-9" height="120" name="sunker0005" width="113" x="0" y="116" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-11" frameY="-4" height="126" name="sunker0006" width="113" x="113" y="116" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-11" frameY="-4" height="126" name="sunker0007" width="113" x="113" y="116" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="0" frameY="-21" height="107" name="sunker0008" width="126" x="0" y="242" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="0" frameY="-21" height="107" name="sunker0009" width="126" x="0" y="242" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-8" frameY="-12" height="116" name="sunker0010" width="114" x="126" y="242" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-8" frameY="-12" height="116" name="sunker0011" width="114" x="126" y="242" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-4" frameY="-11" height="120" name="sunker0012" width="113" x="0" y="358" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-4" frameY="-11" height="120" name="sunker0013" width="113" x="0" y="358" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-3" frameY="-7" height="126" name="sunker0014" width="113" x="113" y="358" />
+<SubTexture frameHeight="140" frameWidth="135" frameX="-3" frameY="-7" height="126" name="sunker0015" width="113" x="113" y="358" />
+</TextureAtlas>
