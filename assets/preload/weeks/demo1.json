@@ -1,0 +1,41 @@
+{
+	"storyName": "I OCCASIONALLY SUNK - DEMO BUILD",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sunky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sunky",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Spoon",
+			"sunky",
+			[
+				46,
+				93,
+				255
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				46,
+				93,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "SUNKY.MPEG WEEK - DEMO",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "FREESONGS - DEMO BUILD",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sunky",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Fun",
+			"sunky",
+			[
+				46,
+				93,
+				255
+			]
+		],
+		[
+			"Spoon OLD",
+			"sunky",
+			[
+				46,
+				93,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"sunky",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "FREESONGS - DEMO"
+}
