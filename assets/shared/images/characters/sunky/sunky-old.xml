@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<TextureAtlas imagePath="sunky-old.png">
+
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyDOWN instance 0000" width="908" x="0" y="0" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyDOWN instance 0001" width="908" x="908" y="0" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyDOWN instance 0002" width="908" x="1816" y="0" />
+<SubTexture frameHeight="774" frameWidth="919" frameX="0" frameY="-1" height="773" name="sunkyIDLE instance 0000" width="908" x="0" y="773" />
+<SubTexture frameHeight="774" frameWidth="919" frameX="0" frameY="-1" height="773" name="sunkyIDLE instance 0001" width="908" x="908" y="773" />
+<SubTexture frameHeight="774" frameWidth="919" frameX="0" frameY="-1" height="773" name="sunkyIDLE instance 0002" width="908" x="1816" y="773" />
+<SubTexture frameHeight="774" frameWidth="919" frameX="0" frameY="-1" height="773" name="sunkyIDLE instance 0003" width="908" x="0" y="1546" />
+<SubTexture frameHeight="777" frameWidth="909" frameX="0" frameY="-4" height="773" name="sunkyLEFT instance 0000" width="908" x="908" y="1546" />
+<SubTexture frameHeight="777" frameWidth="909" frameX="0" frameY="-4" height="773" name="sunkyLEFT instance 0001" width="908" x="1816" y="1546" />
+<SubTexture frameHeight="777" frameWidth="909" frameX="0" frameY="-4" height="773" name="sunkyLEFT instance 0002" width="908" x="0" y="2319" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyRIGHT instance 0000" width="908" x="908" y="2319" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyRIGHT instance 0001" width="908" x="1816" y="2319" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyRIGHT instance 0002" width="908" x="0" y="3092" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyUP instance 0000" width="908" x="908" y="3092" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyUP instance 0001" width="908" x="1816" y="3092" />
+<SubTexture frameHeight="774" frameWidth="909" frameX="0" frameY="-1" height="773" name="sunkyUP instance 0002" width="908" x="0" y="3865" />
+<SubTexture frameHeight="326" frameWidth="421" frameX="0" frameY="0" height="326" name="spongie0000" width="421" x="908" y="3865" />
+</TextureAtlas>
