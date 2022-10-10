@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<TextureAtlas imagePath="sheet.png">
+
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-879" frameY="-916" height="682" name="sunkTransition0000" width="745" x="0" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-879" frameY="-916" height="682" name="sunkTransition0001" width="745" x="0" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-969" frameY="-666" height="916" name="sunkTransition0002" width="758" x="745" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-969" frameY="-666" height="916" name="sunkTransition0003" width="758" x="745" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-958" frameY="-721" height="860" name="sunkTransition0004" width="798" x="1503" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-958" frameY="-721" height="860" name="sunkTransition0005" width="798" x="1503" y="0" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-955" frameY="-721" height="860" name="sunkTransition0006" width="810" x="0" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-955" frameY="-721" height="860" name="sunkTransition0007" width="810" x="0" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-955" frameY="-721" height="860" name="sunkTransition0008" width="810" x="810" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-955" frameY="-721" height="860" name="sunkTransition0009" width="810" x="810" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-571" frameY="-718" height="863" name="sunkTransition0010" width="1194" x="1620" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-571" frameY="-718" height="863" name="sunkTransition0011" width="1194" x="1620" y="916" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-694" frameY="-401" height="1180" name="sunkTransition0012" width="1071" x="0" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-694" frameY="-401" height="1180" name="sunkTransition0013" width="1071" x="0" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-697" frameY="-389" height="1192" name="sunkTransition0014" width="1068" x="1071" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-697" frameY="-389" height="1192" name="sunkTransition0015" width="1068" x="1071" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-704" frameY="-367" height="1157" name="sunkTransition0016" width="1011" x="2139" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-704" frameY="-367" height="1157" name="sunkTransition0017" width="1011" x="2139" y="1779" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-155" frameY="-285" height="1200" name="sunkTransition0018" width="1785" x="0" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-155" frameY="-285" height="1200" name="sunkTransition0019" width="1785" x="0" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-142" frameY="-278" height="1238" name="sunkTransition0020" width="1807" x="1785" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-142" frameY="-278" height="1238" name="sunkTransition0021" width="1807" x="1785" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-145" frameY="-277" height="1277" name="sunkTransition0022" width="1817" x="3592" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-145" frameY="-277" height="1277" name="sunkTransition0023" width="1817" x="3592" y="2971" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-147" frameY="-81" height="1185" name="sunkTransition0024" width="1820" x="0" y="4248" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-147" frameY="-81" height="1185" name="sunkTransition0025" width="1820" x="0" y="4248" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-143" frameY="-278" height="1051" name="sunkTransition0026" width="1820" x="1820" y="4248" />
+<SubTexture frameHeight="1640" frameWidth="2552" frameX="-143" frameY="-278" height="1051" name="sunkTransition0027" width="1820" x="1820" y="4248" />
+</TextureAtlas>
