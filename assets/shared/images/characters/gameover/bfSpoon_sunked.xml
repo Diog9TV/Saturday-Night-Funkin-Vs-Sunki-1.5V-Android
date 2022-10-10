@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.mpeg.png">
+<SubTexture frameHeight="656" frameWidth="594" frameX="0" frameY="0" height="656" name="appear0000" width="594" x="0" y="0" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-97" frameY="-117" height="399" name="appear0001" width="396" x="594" y="0" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-97" frameY="-117" height="399" name="appear0002" width="396" x="990" y="0" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-97" frameY="-117" height="399" name="appear0003" width="396" x="0" y="656" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-97" frameY="-117" height="399" name="dance0000" width="396" x="0" y="656" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-55" frameY="-127" height="419" name="dance0001" width="425" x="396" y="656" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-81" frameY="-110" height="404" name="dance0002" width="396" x="821" y="656" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-116" frameY="-155" height="423" name="dance0003" width="436" x="0" y="1075" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-16" frameY="-19" height="615" name="confirm0000" width="542" x="436" y="1075" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-16" frameY="-19" height="615" name="confirm0001" width="542" x="978" y="1075" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-16" frameY="-19" height="615" name="confirm0002" width="542" x="0" y="1690" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-16" frameY="-19" height="615" name="confirm0003" width="542" x="542" y="1690" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-16" frameY="-19" height="615" name="confirm0004" width="542" x="1084" y="1690" />
+<SubTexture frameHeight="656" frameWidth="594" frameX="-72" frameY="-71" height="530" name="confirm0005" width="462" x="0" y="2305" />
+</TextureAtlas>
